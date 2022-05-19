@@ -33,6 +33,7 @@ yarn md
 python3 server/server.py
 ```
 
+
 The Wiki further describes [how to setup a development environment](https://github.com/SriMethan/Liantichess/wiki/Setting-up-a-Liantichess-Development-environment-locally).
 
 ## Supported browsers
